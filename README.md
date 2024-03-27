@@ -33,7 +33,7 @@ want. For the storage part, we provide a postgres database in the `docker-compos
 workspaces and their credits. If you want to use any other database, feel free to do so.
 
 For the enrichment platform, the service will be created when you run the `docker-compose up` command. It will be
-available at `http://localhost:8080/api/v1/enrichment`. It has only one endpoint, `POST /api/v1/enrichment`.
+available at `http://localhost:8080/api/v1/enrich`. It has only one endpoint, `POST /api/v1/enrich`.
 
 ```bash
 # 200 OK
