@@ -68,6 +68,10 @@ curl --location 'localhost:8080/api/v1/enrich' \
 
 ## Deliverables
 
+Please provide a link to a public git repository (e.g. GitHub, GitLab) with your code.
+
+The repository should contain:
 - An API that implements the features described above.
 - A README file with instructions on how to run the project and how to interact with the API.
 - A brief explanation of the architecture and design decisions.
+
